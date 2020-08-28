@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task">
+    <title>Task</title>
+    <shortdesc>This task topic explains how to perform a certain task.</shortdesc>
+    <taskbody>
+        <context>More information about this task.</context>
+        <steps>
+            <step>
+                <cmd>Do first...</cmd>
+            </step>
+            <step>
+                <cmd>… then do this and that.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
