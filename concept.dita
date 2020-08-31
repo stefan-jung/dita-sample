@@ -4,6 +4,6 @@
     <title>Concept</title>
     <shortdesc>This concept topic explains a certain concept.</shortdesc>
     <conbody>
-        <p>...</p>
+        <p id="ein-modul">Hi, ich bin ein Modul</p>
     </conbody>
 </concept>
