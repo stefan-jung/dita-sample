@@ -7,10 +7,13 @@
         <context>More information about this task.</context>
         <steps>
             <step>
-                <cmd>Do first...</cmd>
+                <cmd audience="expert">Do first...</cmd>
             </step>
             <step>
                 <cmd>… then do this and that.</cmd>
+                <info>
+                    <p conref="concept.dita#concept/module"/>
+                </info>
             </step>
         </steps>
     </taskbody>
